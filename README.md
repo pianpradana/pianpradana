@@ -1,5 +1,7 @@
 <!-- Header -->
 
+<div align="center">
+
 ## `$ neofetch`
 
 <table>
@@ -50,6 +52,9 @@ TOEIC    : 840 (B2)
 
 ---
 
+</div>
+
+
 ## `$ ls skills/`
 
 ```
@@ -96,8 +101,8 @@ $ echo $TERMINAL_SETUP
 ╚══════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfian-r-pradana/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfianpradana4@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://meetpian.xyz)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=a855f7&style=for-the-badge)
