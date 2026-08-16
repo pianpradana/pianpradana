@@ -1,6 +1,4 @@
 <!-- Header -->
-<div align="center">
-
 ---
 
 ## `$ neofetch`
