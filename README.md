@@ -1,23 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer+%F0%9F%94%8D;Breaking+things+professionally+%F0%9F%90%9B;Manual+%26+Automation+Testing;Based+in+South+Tangerang+%F0%9F%87%AE%F0%9F%87%A9)
-
-</div>
-
----
-
-## `$ cat about.txt`
-
-```yaml
-name       : Alfian
-role       : QA Engineer
-location   : South Tangerang, Indonesia
-experience : ~3 years (banking, fintech, enterprise)
-status     : open to work 👀
-vibe       : finds bugs before users do
-```
-
 ---
 
 ## `$ neofetch`
